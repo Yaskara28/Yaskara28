@@ -18,9 +18,12 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaskara28&show_icons=true&theme=radical)
+
 <a href="https://github.com/Yaskara28/github-readme-stats">
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaskara28&layout=compact&theme=radical"/>
 </a>
+
+##
 
 <div> 
  <a href="https://instagram.com/yaskaradossantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank"></a>
