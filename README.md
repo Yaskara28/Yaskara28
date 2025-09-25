@@ -17,11 +17,10 @@
 
 ##
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaskara28&show_icons=true&theme=radical)
 
-<a href="https://github.com/Yaskara28/github-readme-stats">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaskara28&layout=compact&theme=radical"/>
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 ##
 
